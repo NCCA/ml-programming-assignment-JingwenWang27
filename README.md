@@ -1,4 +1,4 @@
-# s5820023 Jingwen Wang ML Project
+# Jingwen Wang s5820023 ML Project
 
 ## Introduction
 
