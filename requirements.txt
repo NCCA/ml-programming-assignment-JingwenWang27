@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+pandas
+scikit-learn
+jupyter
+pytest          
+Pillow          
+tqdm           
+
