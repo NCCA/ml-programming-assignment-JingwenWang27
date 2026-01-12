@@ -21,9 +21,12 @@ Download the pre-trained model checkpoint:
 - Google Drive: [checkpoint_epoch_200.pth](https://drive.google.com/uc?export=download&id=16KOjsu25S74SmWW5qciOpZKDW3i-hWmh)
 - Training: 200 epochs on PavingStones dataset
 
+
+```text
 ml-programming-assignment-JingwenWang27/
 └── checkpoints/
     └── checkpoint_epoch_200.pth
+```
 
 
 **Quick download:**
